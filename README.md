@@ -1,4 +1,4 @@
-Premake example
+# Premake example
 
 This is a simple Hello World project illustrating the power of premake.
 Generates Makefiles - Debug and Release configuration for the following
